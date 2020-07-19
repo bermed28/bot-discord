@@ -1,7 +1,7 @@
-id,first name,middle initial,last names,student id,group id,department
-1,Gabriel,S,Santiago Guzman,802-20-5555,mario,ICOM
-2,Mucaro,I,Santiago Guzman,802-20-3629,link,INEL
-3,Juan,O,Santiago Guzman,802-20-9373,pikachu,INSO/CIIC
-4,Jose,R,Santiago Guzman,802-20-2356,fox,INEL
-5,Elena,F,Gutierrez Medina,802-20-2320,wario,ICOM
-6,Fernando,J,Bermudez Medina,802-18-0426,zelda,INSO/CIIC
+id,first name,middle initial,last names,student email,group id,department
+1,Gabriel,S,Santiago Guzman,gabriel.santiago16@upr.edu,mario,ICOM
+2,Bienvenido,,Velez Rivera,bienvenido.velez@upr.edu,link,ICOM
+3,Juan,O,Lopez Gerena,juano.lopez@upr.edu,pikachu,INSO/CIIC
+4,Moises,,Orengo Aviles,moises.orengo@upr.edu,fox,INEL
+5,Jose,L,Melendez,jose.melendez37@upr.edu,wario,INSO/CIIC
+6,Fernando,J,Bermudez Medina,fernando.bermudez1@upr.edu,zelda,INSO/CIIC
