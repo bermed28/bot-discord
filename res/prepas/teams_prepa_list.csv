@@ -1,7 +1,25 @@
-id,first name,middle initial,last names,student id,group id,department
-1,Gabriel,S,Santiago Guzman,802-20-5555,mario,ICOM
-2,Mucaro,I,Santiago Guzman,802-20-3629,link,INEL
-3,Juan,O,Santiago Guzman,802-20-9373,pikachu,INSO/CIIC
-4,Jose,R,Santiago Guzman,802-20-2356,fox,INEL
-5,Elena,F,Gutierrez Medina,802-20-2320,wario,ICOM
-6,Fernando,J,Bermudez Medina,802-18-0426,zelda,INSO/CIIC
+id,first name,middle initial,last names,student email,group id,department
+1,Gabriel,S,Santiago Guzman,gabriel.santiago16@upr.edu,mario,ICOM
+2,Gerald,L,López Ramos,gerald.lopez@upr.edu,pikachu,INEL
+3,Maria,D,Vilanova García,maria.vilanova@upr.edu,pikachu,ICOM
+4,Ivan,,Jackson,ivan.jackson@upr.edu,wario,ICOM
+5,Christian,A,Rivera Fernández,christian.rivera77@upr.edu,wario,INEL
+6,Andrea,,Rodriguez Astacio,andrea.rodriguez46@upr.edu,rosalina,INEL
+7,Irving,A,Lazú Rosado,irving.lazu@upr.edu,lucina,ICOM
+8,Jose,D,Maldonado Torres,jose.maldonado39@upr.edu,lucina,INSO/CIIC
+9,Maria,C,Novoa García,maria.novoa1@upr.edu,peach,ICOM
+10,Fernando,,Agosto Quiñones,fernando.agosto1@upr.edu,peach,INSO/CIIC
+11,Arianys,,Martínez Fuentes,arianys.martinez@upr.edu,zelda,INEL
+12,Wilfredo,,Tosado-Nieves,wilfredo.tosado@upr.edu,zelda,INME
+13,Gabriel,,Muñiz Negrón,gabriel.muniz2@upr.edu,rosalina,INEL
+14,Lyam,,Rivera Moctezuma,lyam.rivera@upr.edu,link,INEL
+15,Angel,K,Vazquez Sanchez,angel.vazquez25@upr.edu,link,ICOM
+16,Edmarie,,Santana Camacho,edamrie.santana@upr.edu,Fox,ICOM
+17,Carlos,,Morales Sandoval,carlos.morales30@upr.edu,Fox,INEL
+18,Alberto,A,Canela Cubero,alberto.canela@upr.edu,admin,ICOM
+19,Arturo,R,Ng Ortiz,arturo.ng@upr.edu,admin,INEL
+20,Erick,,Negron Alvarez,erick.negron@upr.edu,admin,ECON
+21,Jesmarie,,Villanueva Acevedo,jesmarie.villanueva1@upr.edu,admin,
+22,Yonel,,Ramos Sosa,yonel.ramos@upr.edu,admin,INEL
+23,Luis,,Romero,luis.romero@upr.edu,admin,ICOM
+24,Fernando,J,Bermudez Medina,fernando.bermudez1@upr.edu,admin,INSO/CIIC
