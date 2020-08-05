@@ -27,7 +27,7 @@ id,first name,middle initial,last names,student email,group id,department
 26,ALEJANDRO,D,ARIAS CALDERON,alejandro.arias2@upr.edu,lucina,INSO/CIIC
 27,VICTOR,D,AROCHO SANCHEZ,victor.arocho1@upr.edu,lucina,INSO/CIIC
 28,ALEJANDRO,,BEHAR GUTIERREZ,alejandro.behar@upr.edu,lucina,INSO/CIIC
-29,Gabriel,A,Colon Lopez,gabriel.colon33@upr.edu,lucina,INSO/CIIC
+29,Gabriel ,A,Col�n  L�pez,gabriel.colon33@upr.edu,lucina,INSO/CIIC
 30,OMAR,A,CORDERO MALDONADO,omar.cordero1@upr.edu,lucina,INSO/CIIC
 31,RUBEN,A,DE LEON SANCHEZ,ruben.deleon1@upr.edu,lucina,INSO/CIIC
 32,LEONARDO,J,GALLOZA GARCIA ,leonardo.galloza@upr.edu,lucina,INSO/CIIC
@@ -49,12 +49,12 @@ id,first name,middle initial,last names,student email,group id,department
 48,LEOMAR,I,RIVERA RODRIGUEZ,leomar.rivera@upr.edu,lucina,INSO/CIIC
 49,HELIANIS,N,RIVERA CAMPOS,helianis.rivera@upr.edu,lucina,INSO/CIIC
 50,OMAR,,RODRIGUEZ DURAN,omar.rodriguez28@upr.edu,lucina,INSO/CIIC
-51,Diego,L,Rodriguez Quintero,diego.rodriguez26@upr.com,lucina,INSO/CIIC
+51,Diego,L,Rodr�guez Quintero,diego.rodriguez26@upr.com,lucina,INSO/CIIC
 52,DARIO,J,ROMERO GONZALEZ,dario.romero@upr.edu,lucina,INSO/CIIC
 53,GLERYSBETH,,SERRANO FLORES,glerysbeth.serrano@upr.edu,lucina,INSO/CIIC
 54,JOSHUA,,TORRES ACOSTA,joshua.torres25@upr.edu,lucina,INSO/CIIC
 55,Andres,,Torres Laboy,andres.torres18@upr.edu,lucina,INSO/CIIC
-56,Gabriel,E.,Arroyo Roldan,gabriel.arroyo5@upr.edu,peach,INSO/CIIC
+56,Gabriel,E.,Arroyo Rold�n,gabriel.arroyo5@upr.edu,peach,INSO/CIIC
 57,YARIEL,J,BENITEZ PACHECO,yariel.benitez@upr.edu,peach,INSO/CIIC
 58,DYLAN,A,CASIANO MENDEZ,dylan.casiano@upr.edu,peach,INSO/CIIC
 59,NATHALIA,M,CASTRO HERNANDEZ,nathalia.castro@upr.edu,peach,INSO/CIIC
@@ -81,7 +81,7 @@ id,first name,middle initial,last names,student email,group id,department
 80,WILLIAM,G,RODRIGUEZ PEREZ,william.rodriguez32@upr.edu,peach,INSO/CIIC
 81,GABRIEL,E,RODRIGUEZ RODRIGUEZ,gabriel.rodriguez96@upr.edu,peach,INSO/CIIC
 82,BREANNA,G,SEGARRA SUAREZ,breanna.segarra@upr.edu,peach,INSO/CIIC
-83,Manuel,Alejandro,Umana Rodriguez,manuel.umana@upr.edu,peach,INSO/CIIC
+83,Manuel,Alejandro,Uma�a Rodr�guez,manuel.umana@upr.edu,peach,INSO/CIIC
 84,ELDWIN,E,VELAZQUEZ VEGA,eldwin.velazquez@upr.edu,peach,INSO/CIIC
 85,RYAN,,WILLIAMS MIRANDA,ryan.williams@upr.edu,peach,INSO/CIIC
 86,JESMARIE,C,ALONSO RUIZ,jesmarie.alonso@upr.edu,zelda,INEL
@@ -107,7 +107,7 @@ id,first name,middle initial,last names,student email,group id,department
 106,YENIEL,M,RESTO AYALA,yeniel.resto@upr.edu,zelda,ICOM
 107,SEBASTIAN,,RIVERA RODRIGUEZ,sebastian.rivera33@upr.edu,zelda,INEL
 108,MARCOS,M,RIVERA ROSARIO,marcos.rivera15@upr.edu,zelda,INEL
-109,Omar,A,Rivera Gonzales,omar.rivera20@upr.edu,zelda,INEL
+109,Omar,A,Rivera Gonzales,omar.rivera.20@upr.edu,zelda,INEL
 110,DIEGO,A,RODRIGUEZ GREEN,diego.rodriguez29@upr.edu,zelda,INEL
 111,OSCAR,J,SANTIAGO AVILES,oscar.santiago7@upr.edu,zelda,INEL
 112,Alejandro,M,Serrano Diaz,alejandro.serrano4@upr.edu,zelda,INEL
@@ -117,7 +117,7 @@ id,first name,middle initial,last names,student email,group id,department
 116,JOEL,A,ALVARADO MORALES,joel.alvarado2@upr.edu,wario,INSO/CIIC
 117,ALEXANDER,A,ANGUEIRA BRETON,alexander.angueira@upr.edu,wario,INSO/CIIC
 118,JORGE,A,AVILES BERRIOS,jorge.aviles7@upr.edu,wario,INSO/CIIC
-119,Ceasar,F,Colon  Alvarado,cesar.colon2@upr.edu,wario,INSO/CIIC
+119,Ceasar,F,Col�n  Alvarado,cesar.colon2@upr.edu,wario,INSO/CIIC
 120,JOSEPH,,CRUZ HERNANDEZ,joseph.cruz5@upr.edu,wario,INSO/CIIC
 121,Jeankarlo,,Gonzales  Reyes,jeankarlo.gonzalez@upr.edu,wario,INSO/CIIC
 122,YERIEL ,O,MALDONADO GALARZA,yeriel.maldonado@upr.edu,wario,INSO/CIIC
@@ -131,7 +131,7 @@ id,first name,middle initial,last names,student email,group id,department
 130,EDUARDO,J,NOVOA LUGO,eduardo.novoa@upr.edu,wario,INSO/CIIC
 131,ENRIQUE,A,PABON HERNANDEZ,enrique.pabon@upr.edu,wario,INSO/CIIC
 132,KIAM,E,PEREZ GARCIA,kiam.perez@upr.edu,wario,INSO/CIIC
-133,Joshua,D.,Reyes Rodriguez,joshua.reyes6@upr.edu,wario,INSO/CIIC
+133,Joshua,D.,Reyes Rodr�guez,joshua.reyes6@upr.edu,wario,INSO/CIIC
 134,ERIC,GABRIEL,RIVERA SANCHEZ,eric.rivera23@upr.edu,wario,INSO/CIIC
 135,JUAN,J,RIVERA MERCADO,juan.rivera103@upr.edu,wario,INSO/CIIC
 136,SEBASTIAN,E,RODRIGUEZ SANTIAGO,sebastian.rodriguez33@upr.edu,wario,INSO/CIIC
@@ -140,7 +140,7 @@ id,first name,middle initial,last names,student email,group id,department
 139,JUSTIN,A,ROMAN GARCIA,justin.roman1@upr.edu,wario,INSO/CIIC
 140,SEBASTIAN,I,SALIVA GIRON,sebastian.saliva@upr.edu,wario,INSO/CIIC
 141,JEREMY,,SANCHEZ BATIZ,jeremy.sanchez1@upr.edu,wario,INSO/CIIC
-142,John,R,Santiago Melendez,john.santiago9@upr.edu,wario,INSO/CIIC
+142,John,R,Santiago Mel�ndez,john.santiago9@upr.edu,wario,INSO/CIIC
 143,NORELY,,TORRES BERRIOS,norely.torres1@upr.edu,wario,INSO/CIIC
 144,JOMAR,G,VELEZ RIVERA,jomar.velez1@upr.edu,wario,INSO/CIIC
 145,EFRAN,X,VERA SONERA,efran.vera@upr.edu,wario,INSO/CIIC
@@ -154,7 +154,7 @@ id,first name,middle initial,last names,student email,group id,department
 153,Edwin,J,Camuy Medina,edwin.camuy@upr.edu,rosalina ,INSO/CIIC
 154,WILZAMIL,,CARDONA SOTO,wilzamil.cardona@upr.edu,rosalina ,ICOM
 155,JESUS,G,COLON RIVERA,jesus.colon16@upr.edu,rosalina ,ICOM
-156,Cesar ,D,Colon  Martinez,cesar.colon3@upr.edu,rosalina ,INSO/CIIC
+156,Cesar ,D,Col�n  Mart�nez,cesar.colon3@upr.edu,rosalina ,INSO/CIIC
 157,ANTHONY,J,CRESPO MOLINA,anthony.crespo2@upr.edu,rosalina ,INEL
 158,ELVIN,J,CRUZ TIRADO,elvin.cruz2@upr.edu,rosalina ,INEL
 159,JUAN,E,DIAZ DIAZ,juan.diaz33@upr.edu,rosalina ,ICOM
@@ -198,7 +198,7 @@ id,first name,middle initial,last names,student email,group id,department
 197,ADRIANA,P,RIVERA SANCHEZ,adriana.rivera25@upr.edu,link,INEL
 198,ALONDRA,G,RODRIGUEZ OCASIO,alondra.rodriguez49@upr.edu,link,INEL
 199,ERIKA,,SANCHEZ RAMOS,erika.sanchez4@upr.edu,link,ICOM
-200,Sebastian,A,Santiago Perez,sebastian.santiago9@upr.edu,link,INSO/CIIC
+200,Sebast�an ,A,Santiago P�rez,sebastian.santiago9@upr.edu,link,INSO/CIIC
 201,EDUARDO,L,SERRANO BARRETO,eduardo.serrano2@upr.edu,link,INEL
 202,FERNANDO,J,SIERRA APONTE,fernando.sierra3@upr.edu,link,ICOM
 203,HECTOR,U,SOTELO CARABALLO,hector.sotelo@upr.edu,link,INSO/CIIC
@@ -230,7 +230,7 @@ id,first name,middle initial,last names,student email,group id,department
 229,RICARDO,J,RIVERA SANCHEZ,ricardo.rivera55@upr.edu,fox,INSO
 230,SAM,,RODRIGUEZ TRENCO,sam.rodriguez@upr.edu,fox,ICOM
 231,ALEJANDRO,,RODRIGUEZ MORALES,alejandro.rodriguez33@upr.edu,fox,INEL
-232,John,R,Santiago Melendez,john.santiago9@upr.edu,fox,INSO/CIIC
+232,John,R,Santiago Mel�ndez,john.santiago9@upr.edu,fox,INSO/CIIC
 233,ANGEL,G,SOTO ACEVEDO,angel.soto12@upr.edu,fox,ICOM
 234,ALEXANDER,Y,VAZQUEZ TRINIDAD,alexander.vazquez4@upr.edu,fox,ICOM
 235,ALEJANDRO,,VAZQUEZ BURGOS,alejandro.vazquez9@upr.edu,fox,ICOM
@@ -246,7 +246,7 @@ id,first name,middle initial,last names,student email,group id,department
 245,GABRIEL,A,FIGUEROA ROSADO,gabriel.figueroa16@upr.edu,pikachu,INEL
 246,EDWARD,A,FIGUEROA SANCHEZ,edward.figueroa1@upr.edu,pikachu,INEL
 247,DIEGO,A,GREEN RODRIGUEZ,diego.green@upr.edu,pikachu,ICOM
-248,Jose,J,Irizarry  Rivera,jose.irizarry24@upr.edu,pikachu,ICOM
+248,Jose,J,Irizarry  Rivera,jose.irrizarry24@upr.edu,pikachu,ICOM
 249,Edwin,J,Jimenez Lugo,edwin.jimenez5@upr.edu,pikachu,INEL
 250,EMMANUEL,,MATIAS RIVERA,emmanuel.matias1@upr.edu,pikachu,INEL
 251,EBRAIN,A,MENDOZA ORTIZ,ebrain.mendoza@upr.edu,pikachu,ICOM
@@ -266,3 +266,8 @@ id,first name,middle initial,last names,student email,group id,department
 265,VICTOR,A,SANTANA CAEZ,victor.santana3@upr.edu,pikachu,INEL
 266,GLORIAN,M,SERRANO ORTIZ,glorian.serrano1@upr.edu,pikachu,ICOM
 267,LUIS,A,SOLA OCASIO,luis.sola1@upr.edu,pikachu,INEL
+268,KENNETH,S,BERRIOS RIVERA,kenneth.berrios2@upr.edu,link,INEL
+269,EDWARD,A,FIGUEROA SANCHEZ,edward.figueroa1@upr.edu,link,INEL
+270,RICARDO,S,MORENO RAMIREZ,ricardo.moreno@upr.edu,rosalina,ICOM
+271,JOAN,,ALCOVER TEJADA,joan.alcover@upr.edu,zelda,INEL
+272,Luis,G�,Albarran Rodriguez,luis.albarran3@upr.edu,peach,INSO/CIIC
