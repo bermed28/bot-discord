@@ -27,7 +27,7 @@ id,first name,middle initial,last names,student email,group id,department
 26,ALEJANDRO,D,ARIAS CALDERON,alejandro.arias2@upr.edu,lucina,INSO/CIIC
 27,VICTOR,D,AROCHO SANCHEZ,victor.arocho1@upr.edu,lucina,INSO/CIIC
 28,ALEJANDRO,,BEHAR GUTIERREZ,alejandro.behar@upr.edu,lucina,INSO/CIIC
-29,Gabriel ,A,Col�n  L�pez,gabriel.colon33@upr.edu,lucina,INSO/CIIC
+29,Gabriel ,A,Colon  Lopez,gabriel.colon33@upr.edu,lucina,INSO/CIIC
 30,OMAR,A,CORDERO MALDONADO,omar.cordero1@upr.edu,lucina,INSO/CIIC
 31,RUBEN,A,DE LEON SANCHEZ,ruben.deleon1@upr.edu,lucina,INSO/CIIC
 32,LEONARDO,J,GALLOZA GARCIA ,leonardo.galloza@upr.edu,lucina,INSO/CIIC
@@ -49,12 +49,12 @@ id,first name,middle initial,last names,student email,group id,department
 48,LEOMAR,I,RIVERA RODRIGUEZ,leomar.rivera@upr.edu,lucina,INSO/CIIC
 49,HELIANIS,N,RIVERA CAMPOS,helianis.rivera@upr.edu,lucina,INSO/CIIC
 50,OMAR,,RODRIGUEZ DURAN,omar.rodriguez28@upr.edu,lucina,INSO/CIIC
-51,Diego,L,Rodr�guez Quintero,diego.rodriguez26@upr.com,lucina,INSO/CIIC
+51,Diego,L,Rodriguez Quintero,diego.rodriguez26@upr.com,lucina,INSO/CIIC
 52,DARIO,J,ROMERO GONZALEZ,dario.romero@upr.edu,lucina,INSO/CIIC
 53,GLERYSBETH,,SERRANO FLORES,glerysbeth.serrano@upr.edu,lucina,INSO/CIIC
 54,JOSHUA,,TORRES ACOSTA,joshua.torres25@upr.edu,lucina,INSO/CIIC
 55,Andres,,Torres Laboy,andres.torres18@upr.edu,lucina,INSO/CIIC
-56,Gabriel,E.,Arroyo Rold�n,gabriel.arroyo5@upr.edu,peach,INSO/CIIC
+56,Gabriel,E.,Arroyo Roldan,gabriel.arroyo5@upr.edu,peach,INSO/CIIC
 57,YARIEL,J,BENITEZ PACHECO,yariel.benitez@upr.edu,peach,INSO/CIIC
 58,DYLAN,A,CASIANO MENDEZ,dylan.casiano@upr.edu,peach,INSO/CIIC
 59,NATHALIA,M,CASTRO HERNANDEZ,nathalia.castro@upr.edu,peach,INSO/CIIC
@@ -117,7 +117,7 @@ id,first name,middle initial,last names,student email,group id,department
 116,JOEL,A,ALVARADO MORALES,joel.alvarado2@upr.edu,wario,INSO/CIIC
 117,ALEXANDER,A,ANGUEIRA BRETON,alexander.angueira@upr.edu,wario,INSO/CIIC
 118,JORGE,A,AVILES BERRIOS,jorge.aviles7@upr.edu,wario,INSO/CIIC
-119,Ceasar,F,Col�n  Alvarado,cesar.colon2@upr.edu,wario,INSO/CIIC
+119,Ceasar,F,Colon  Alvarado,cesar.colon2@upr.edu,wario,INSO/CIIC
 120,JOSEPH,,CRUZ HERNANDEZ,joseph.cruz5@upr.edu,wario,INSO/CIIC
 121,Jeankarlo,,Gonzales  Reyes,jeankarlo.gonzalez@upr.edu,wario,INSO/CIIC
 122,YERIEL ,O,MALDONADO GALARZA,yeriel.maldonado@upr.edu,wario,INSO/CIIC
